@@ -1,7 +1,7 @@
 # rsleepy
 
-Sleep command with progress bar.
-This software is inspired by [sleepy](https://github.com/mattn/sleepy).
+Sleep command with progress bar.  
+This software is inspired by [mattn/sleepy](https://github.com/mattn/sleepy).
 
 ## Usage
 
